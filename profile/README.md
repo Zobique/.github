@@ -4,7 +4,7 @@
 
 ## 🚀 About Zobique
 
-**India's First AI-Driven Career Development Platform**
+**India's First AI-Driven Career Development and Job Search Platform**
 
 Zobique is revolutionizing how students and recent graduates build successful careers. We're not just another job portal — we're a comprehensive, intelligent career companion that transforms the entire journey from education to employment.
 
