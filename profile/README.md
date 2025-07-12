@@ -89,6 +89,13 @@ Join us in building successful careers with Zobique.
 **Interested in partnerships or collaboration?**
 Let's work together to democratize career success across India.
 
----
-
 *Empowering India's next generation, one career at a time.*
+
+---
+## Authors
+<div>
+<a href="https://github.com/zobique/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Zobique/.github" />
+</a>
+</div>
+
